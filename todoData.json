@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "task": "Belajar JavaScript",
+    "status": "v",
+    "createdAt": "2025-02-27T03:12:42.035Z",
+    "completedAt": "2025-02-27T03:26:51.629Z"
+  },
+  {
+    "id": 2,
+    "task": "Belajar MVC",
+    "status": "x",
+    "createdAt": "2025-02-27T03:27:16.806Z",
+    "completedAt": null
+  }
+]
